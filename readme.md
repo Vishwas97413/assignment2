@@ -224,6 +224,9 @@ Grafana visualizes monitoring metrics using dashboards. Used for CPU Monitoring 
 - Cloud deployment concepts
 - Monitoring using CloudWatch, Prometheus, and Grafana
 
+## Result
+https://docs.google.com/document/d/1wO-PxkrYy4WdI5lXjFHRi9iAk6UnVLeoJvWpbTRQD30/edit?usp=sharing
+
 ## Conclusion
 
 This project successfully implemented a complete DevOps workflow for deploying a containerized microservice application on AWS ECS. The project automated the software deployment lifecycle using GitHub Actions CI/CD pipeline and integrated monitoring tools like CloudWatch, Prometheus, and Grafana for observability and performance monitoring. The implementation reduced manual deployment effort and demonstrated modern cloud-native deployment practices used in real-world industry environments.
